@@ -185,7 +185,7 @@
 - [Exploring the Ark](https://exploringtheark.livejournal.com/)
 - [ElasticMuffin's Creatures Download Archive](https://files.diagonalfish.net/creatures/)
 - [Fluff's Nornheim](https://flubdis.beepworld.de/)
-- [Muppetboy's Geatville](https://geatville.weebly.com/)
+- [Muppetboy's Geatville](https://geatville.weebly.com/)(http://geatville.uk/index.html)
 - [Albian Warp Team (GitHub)](https://github.com/orgs/AlbianWarp/projects/1)
 - [GreenReaper Studios](https://greenreaper.co.uk/)
 - [alt.games.creatures](https://groups.google.com/forum/m/#!forum/alt.games.creatures)
